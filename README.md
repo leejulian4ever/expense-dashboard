@@ -3,7 +3,7 @@
 A single-page dashboard that answers one question at a glance: **where is
 the money going, and is anything moving in the wrong direction?**
 
-View it live: *(add the Vercel URL here once deployed)*
+View it live: [expense-dashboard-i2r-tech-claude.vercel.app](https://expense-dashboard-i2r-tech-claude.vercel.app)
 
 > **Note:** the data behind this dashboard is sample/exercise data used for
 > a training project, not live company financials.
